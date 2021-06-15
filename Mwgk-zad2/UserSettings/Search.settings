@@ -7,6 +7,9 @@ onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
+	"last_search.B064B029" = "medieval pixel art asset"
+	"InspectorPreview.B064B029" = "0"
+	"currentGroup.B064B029" = "all"
 }
 providers = {
 	asset = {
@@ -46,6 +49,8 @@ providers = {
 	}
 }
 recentSearches = [
+	"medieval pixel art asset"
+	"pixel adventure 1"
 ]
 searchItemFavorites = [
 ]
